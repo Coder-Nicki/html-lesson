@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: #f147d5;
+
+}
+p {
+    color: green;
+}
+a {
+    display: block;
+}
+.bold-red {
+    font-weight: bold;
+    color: red;
+}
+a:hover {
+    color: purple;
+}
+#heading {
+    color: blue;
+}
